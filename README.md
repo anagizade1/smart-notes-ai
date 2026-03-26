@@ -12,4 +12,4 @@ An AI-powered study assistant that summarizes text, extracts keywords, detects t
 *How to Run*
 ``` bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run ai-assistant.py
