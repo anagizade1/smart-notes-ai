@@ -3,13 +3,13 @@
 An AI-powered study assistant that summarizes text, extracts keywords, detects tone, and generates quiz questions.
 
 *Features*
-- Text summarization
-- Keyword extraction
-- Tone detection
-- Quiz question generation
-- Study tips
-- 
+1 Text summarization
+2 Keyword extraction
+2 Tone detection
+3 Quiz question generation
+4 Study tips
+ 
 *How to Run*
-
+``` bash
 pip install -r requirements.txt
 streamlit run app.py
