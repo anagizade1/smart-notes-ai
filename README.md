@@ -7,3 +7,9 @@ An AI-powered study assistant that summarizes text, extracts keywords, detects t
 - Tone detection
 - Quiz question generation
 - Study tips
+- 
+## How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
