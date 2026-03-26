@@ -9,8 +9,13 @@ Smart Notes AI is a simple AI-powered study assistant that helps users understan
 - ❓ Quiz question generation
 - 📚 Study tips
 
-## 🖼️ Demo
-![App Screenshot](assets/screenshot.png)
+## 🖥️ Application Preview
+
+### Input
+![Input](assets/app-demo.png)
+
+### Output
+![Output](assets/app-result.png)
 
 ## 🛠️ Tech Stack
 - Python
