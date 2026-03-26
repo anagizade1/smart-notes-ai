@@ -1,15 +1,23 @@
-*smart-notes-ai*
+# 🧠 Smart Notes AI
 
-An AI-powered study assistant that summarizes text, extracts keywords, detects tone, and generates quiz questions.
+Smart Notes AI is a simple AI-powered study assistant that helps users understand and learn from text more efficiently.
 
-*Features*
-1 Text summarization
-2 Keyword extraction
-2 Tone detection
-3 Quiz question generation
-4 Study tips
- 
-*How to Run*
-``` bash
+## 🚀 Features
+- 📌 Text summarization
+- 🔑 Keyword extraction
+- 🎭 Tone detection
+- ❓ Quiz question generation
+- 📚 Study tips
+
+## 🖼️ Demo
+![App Screenshot](assets/screenshot.png)
+
+## 🛠️ Tech Stack
+- Python
+- Streamlit
+
+## ⚙️ Installation
+
+```bash
 pip install -r requirements.txt
-streamlit run ai-assistant.py
+streamlit run app.py
