@@ -17,6 +17,12 @@ Smart Notes AI is a simple AI-powered study assistant that helps users understan
 ### Output
 ![Output](assets/app-result.png)
 
+## 🚀 Live Demo
+
+Try the app here:
+
+👉 https://xpxp5pebamrismpnqyovhn.streamlit.app/
+
 ## 🛠️ Tech Stack
 - Python
 - Streamlit
